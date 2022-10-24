@@ -8,7 +8,7 @@ sum=sum + sum * percent / 100;
 alert ( "პროცენტი დარიცხვის შემდეგ თანხა იქნება" + sum)
 
 
-else if (income >= 2000 && income <=4000) {
+if (income >= 2000 && income <=4000) {
     alert( "sashualo xelfasi")
 }
 
